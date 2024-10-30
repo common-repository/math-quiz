@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: math-quiz\n"
+"POT-Creation-Date: 2014-04-17 16:18+0800\n"
+"PO-Revision-Date: 2016-05-13 01:16+0100\n"
+"Language-Team: jpBenfic@ <jp.jp@sapo.pt>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: João Paulo <jp.jp@sapo.pt>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_PT\n"
+"X-Poedit-SearchPath-0: C:/mathquiz/trunk\n"
+
+#: C:\mathquiz\trunk/admin.php:28
+msgid "Math Quiz"
+msgstr "Math Quiz"
+
+#: C:\mathquiz\trunk/admin.php:36
+msgid "The following settings is invalid, please try again. <br />"
+msgstr ""
+"As configurações seguintes são inválidas, por favor tente novamente. <br />"
+
+#: C:\mathquiz\trunk/admin.php:39
+msgid "Setting saved."
+msgstr "Configurações guardadas."
+
+#: C:\mathquiz\trunk/admin.php:50
+msgid "Quiz Form"
+msgstr "Formulário de perguntas"
+
+#: C:\mathquiz\trunk/admin.php:53
+msgid "This is how your quiz form will look like, customize it using CSS!"
+msgstr ""
+"O formulário de perguntas será visto assim, pode personalizá-lo usando CSS."
+
+#: C:\mathquiz\trunk/admin.php:57
+msgid "Quiz Form Customization"
+msgstr "Personalizar formulário de perguntas"
+
+#: C:\mathquiz\trunk/admin.php:62
+msgid "Use theme CSS"
+msgstr "Utilize tema CSS"
+
+#: C:\mathquiz\trunk/admin.php:63
+msgid "Customize it here"
+msgstr "Personalizá-lo aqui"
+
+#: C:\mathquiz\trunk/admin.php:74
+msgid "It's recommended to use theme CSS."
+msgstr "Recomenda-se utilizar o tema CSS."
+
+#: C:\mathquiz\trunk/admin.php:78 C:\mathquiz\trunk/admin.php:186
+msgid "Quiz Position"
+msgstr "Posição da pergunta"
+
+#: C:\mathquiz\trunk/admin.php:83
+msgid "Use default position"
+msgstr "Posição por defeito"
+
+#: C:\mathquiz\trunk/admin.php:84
+msgid "Customize it yourself"
+msgstr "Personalizá-lo você mesmo"
+
+#: C:\mathquiz\trunk/admin.php:98
+msgid "Insert before"
+msgstr "Inserir antes"
+
+#: C:\mathquiz\trunk/admin.php:99
+msgid "Insert into"
+msgstr "Inserir dentro"
+
+#: C:\mathquiz\trunk/admin.php:100
+msgid "Insert after"
+msgstr "Inserir depois"
+
+#: C:\mathquiz\trunk/admin.php:110
+msgid "the HTML element id: "
+msgstr "Id do elemento HTML:"
+
+#: C:\mathquiz\trunk/admin.php:112
+msgid ""
+"Please enter the \"HTML element id\" where you want to insert the quiz form, "
+"and choose a insert method."
+msgstr ""
+"Por favor, introduza o \"id do elemento HTML\" onde você deseja inserir o "
+"formulário de perguntas, e escolha um método de inserção."
+
+#: C:\mathquiz\trunk/admin.php:117 C:\mathquiz\trunk/admin.php:206
+msgid "Quiz Type"
+msgstr "Tipo de pergunta"
+
+#: C:\mathquiz\trunk/admin.php:122
+msgid "Picture"
+msgstr "Imagem"
+
+#: C:\mathquiz\trunk/admin.php:123
+msgid "Text"
+msgstr "Texto"
+
+#: C:\mathquiz\trunk/admin.php:136
+msgid "Save Changes"
+msgstr "Guardar mudanças"
+
+#: C:\mathquiz\trunk/admin.php:168
+msgid "Quiz Customization"
+msgstr "Personalizar pergunta"
+
+#: C:\mathquiz\trunk/admin.php:178
+msgid "Quiz Position Type Selector"
+msgstr "Posição da pergunta"
+
+#: C:\mathquiz\trunk/admin.php:196
+msgid "Quiz Insert Method"
+msgstr "Método de inserção"
+
+#: C:\mathquiz\trunk/math-quiz.php:133
+msgid "Invalid session id, please clear your browser cookie and try again."
+msgstr ""
+"ID de sessão inválido, por favor, elimine os cookies do navegador e tente "
+"novamente."
+
+#: C:\mathquiz\trunk/math-quiz.php:261
+msgid "Solve the problem: "
+msgstr "Resolva a pergunta:"
+
+#: C:\mathquiz\trunk/math-quiz.php:262
+msgid "Refresh Quiz"
+msgstr "Outra Pergunta"
+
+#: C:\mathquiz\trunk/math-quiz.php:361
+msgid ""
+"You failed to answer the question. Please go back and try another problem."
+msgstr ""
+"Você errou na resposta à pergunta. Volte atrás e tente uma nova pergunta."
+
+#: C:\mathquiz\trunk/math-quiz.php:367
+msgid "The answer is incorrect.  Please go back and try another problem."
+msgstr "A resposta é incorreta. Volte atrás e tente uma nova pergunta."
+
+#: C:\mathquiz\trunk/math-quiz.php:377
+msgid "Source IP and url are not matched."
+msgstr "O IP de origem e a URL não coincidem."
+
+msgid "Quiz Color Customization"
+msgstr "Personalizar cor da pergunta"
+
+msgid "Background color in RGB(0~255): "
+msgstr "Color de fundo em RGB(0~255):"
+
+msgid "Text color in RGB(0~255): "
+msgstr "Cor do texto em RGB(0~255):"
+
+msgid "Choose the color you want!"
+msgstr "Escolha a cor que deseja!"
+
+msgid "Summation"
+msgstr "Soma"
+
+msgid "Subtraction"
+msgstr "Subtração"
+
+msgid "Multiplication"
+msgstr "Multiplicação"
+
+msgid "Square root"
+msgstr "Raiz quadrada"
+
+msgid "Exponentiation"
+msgstr "Exponenciação"
+
+msgid "Choose your favorite quiz type!"
+msgstr "Escolha a sua pergunta favorita!"
+
+msgid ""
+"&#37;problem&#37;, &#37;uniqueid&#37;, &#37;fieldname&#37; are the preserved "
+"strings that should never be removed."
+msgstr ""
+"&#37;pergunta&#37;, &#37;uniqueid&#37;, &#37;fieldname&#37; são as palavras "
+"reservadas que nunca deverão ser eliminadas."
+
+msgid "However, &#37;reloadbutton&#37; is up to you."
+msgstr "Contudo, &#37;reloadbutton&#37; cabe a você."
+
+msgid "Before"
+msgstr "Antes"
+
+msgid "After"
+msgstr "Depois"
